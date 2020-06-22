@@ -1,5 +1,7 @@
 # Stack Overflow - Puppeteer
 
+![so_puppeteer_demo](https://user-images.githubusercontent.com/13971760/85240555-3629de00-b3fe-11ea-99fd-cb8255b21e2b.gif)
+
 Using Puppeteer and Unix Crons I'll be getting the "Enthusiast" and "Fanatic" participation badges in Stack Overflow.
 
 ![badges](https://user-images.githubusercontent.com/13971760/85235667-8bed8e80-b3dc-11ea-9194-c18ef2434728.png)
