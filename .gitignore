@@ -106,3 +106,5 @@ dist
 
 # secrets
 secrets/
+
+src/stackoverflow.sh
